@@ -2,7 +2,7 @@
 
 ## 🚀 **Live Demo**
 🎉 **View the project in action by running it locally.**
-https://ahad-mirza.github.io/Custom-Shapes/
+- https://ahad-mirza.github.io/Custom-Shapes/
 ---
 
 ## 📚 **About the Project**
