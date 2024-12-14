@@ -6,7 +6,8 @@ https://ahad-mirza.github.io/Custom-Shapes/
 ---
 
 ## 📚 **About the Project**
-This project demonstrates how to style an HTML page with **custom CSS**. It showcases various components such as images, shapes, and layouts to create a visually appealing design.
+This project demonstrates how to style an HTML page with **custom CSS**. 
+It showcases various components such as images, shapes, and layouts to create a visually appealing design.
 
 ---
 
@@ -17,12 +18,12 @@ This project demonstrates how to style an HTML page with **custom CSS**. It show
 ---
 
 ## ✨ **Features**
-🌈 Clean and organized HTML structure.
-🎨 Custom CSS styling for shapes, images, and layouts.
-📐 Responsive and visually appealing design elements.
-🖥️ Easy-to-follow steps for beginners to understand CSS.
-🔥 Stylish design with minimalistic and modern graphics.
-🔧 Custom shapes and patterns used creatively to enhance the UI.
+- 🌈 Clean and organized HTML structure.
+- 🎨 Custom CSS styling for shapes, images, and layouts.
+- 📐 Responsive and visually appealing design elements.
+- 🖥️ Easy-to-follow steps for beginners to understand CSS.
+- 🔥 Stylish design with minimalistic and modern graphics.
+- 🔧 Custom shapes and patterns used creatively to enhance the UI.
 
 ---
 
