@@ -2,7 +2,7 @@
 
 ## 🚀 **Live Demo**
 🎉 **View the project in action by running it locally.**
-
+https://ahad-mirza.github.io/Custom-Shapes/
 ---
 
 ## 📚 **About the Project**
@@ -16,11 +16,11 @@ This project demonstrates how to style an HTML page with **custom CSS**. It show
 
 ---
 
-## 📝 **Steps to Run the Project**
+## 📝 **Step to Run the Project**
 
 Follow these steps to set up and run the project locally:
 
-1. **Clone the Repository**  
+ **Clone the Repository**  
    Open your terminal and run:
    ```bash
-   git clone https://github.com/YourUsername/Custom-Shapes.git
+   git clone https://github.com/Ahad-mirza/Custom-Shapes.git
