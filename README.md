@@ -16,6 +16,16 @@ This project demonstrates how to style an HTML page with **custom CSS**. It show
 
 ---
 
+## ✨ **Features**
+🌈 Clean and organized HTML structure.
+🎨 Custom CSS styling for shapes, images, and layouts.
+📐 Responsive and visually appealing design elements.
+🖥️ Easy-to-follow steps for beginners to understand CSS.
+🔥 Stylish design with minimalistic and modern graphics.
+🔧 Custom shapes and patterns used creatively to enhance the UI.
+
+---
+
 ## 📝 **Step to Run the Project**
 
 Follow these steps to set up and run the project locally:
